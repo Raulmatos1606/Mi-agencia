@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agencia de IA Personalizados</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f5ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Agencia de IA Personalizados</h1>
+</header>
+
+<section>
+    <h2>¡Creamos los Mejores Agentes de IA Personalizados!</h2>
+    <p>Bienvenido a nuestra agencia especializada en inteligencia artificial personalizada. Nos dedicamos a crear soluciones únicas y efectivas para satisfacer tus necesidades.</p>
+    <p>Ya sea que necesites un asistente virtual, un sistema de recomendación o cualquier otra aplicación de IA, ¡estamos aquí para ayudarte!</p>
+</section>
+
+<footer>
+    <p>© 2024 Agencia de IA Personalizados. Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
